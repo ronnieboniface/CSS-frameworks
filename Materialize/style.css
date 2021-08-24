@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Yeseva+One&display=swap');
+
+body {
+  background: #F2CC8F url(../images/svg/no-face.svg) left bottom no-repeat fixed;
+  background-size: 30%;
+  font-family: 'Open Sans';
+  color: #3D405B;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: #3D405B;
+  font-family: 'Yeseva One';
+}
+
+.title-soot {
+  width: 8%;
+  margin-right: 1rem;
+}
+
+.movie-card {
+  margin: 1rem;
+  height: 40rem;
+  background: #F4F1DE;
+  border-radius: 1rem;
+  opacity: 90%;
+}
+
+.movie-info {
+  padding: 1rem;
+}
+
+.movie-info span {
+  font-weight: 700;
+}
+
+.movie-title {
+  color: #BC4524;
+  font-family: 'Yeseva One';
+  font-size: 1.7rem;
+  text-align: center;
+}
+
+.plot {
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+.plot p {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
