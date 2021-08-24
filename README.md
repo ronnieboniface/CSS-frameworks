@@ -22,19 +22,19 @@
 
   ### [Materialize](https://materializecss.com/getting-started.html)
 
-    ![Materialize CDN link tag](/images/materialize-cdn.png)
+    ![Materialize CDN link tag](/images/screengrabs/materialize-cdn.png)
 \
 &nbsp;
 
   ### [Bulma](https://bulma.io/documentation/overview/start/)
 
-    ![Bulma CDN link tag](/images/bulma-cdn.png)
+    ![Bulma CDN link tag](/images/screengrabs/bulma-cdn.png)
 \
 &nbsp;
 
   ### [Bootstrap](https://www.bootstrapcdn.com/)
 
-    ![Bootstrap CDN link tag](/images/bootstrap-cdn.png)
+    ![Bootstrap CDN link tag](/images/screengrabs/bootstrap-cdn.png)
 \
 &nbsp;
 
